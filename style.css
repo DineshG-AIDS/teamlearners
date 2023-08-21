@@ -6,6 +6,11 @@ body {
 html {
   scroll-behavior: smooth;
 }
+.txt1 {
+  text-decoration: none;
+  color: white;
+  font-size: 0.8rem;
+}
 .hidden {
   display: none;
 }
